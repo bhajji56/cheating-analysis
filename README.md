@@ -1,0 +1,1 @@
+main.py contains the code for analysis of the moves when clock time is less than 10 seconds. I used 9 players and 9 cores for multiprocessing. This might behave differently on differnet machines. Similary, I assigned 1300 mb space to each thread which may vary on different machines. I used stockfish for analysis at a depth 20.
